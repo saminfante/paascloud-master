@@ -61,7 +61,7 @@
     <spring.version>4.3.11.RELEASE</spring.version>
     <fastjson.version>1.2.29</fastjson.version>
     <modelmapper.version>1.1.2</modelmapper.version>
-    <rocketmq.version>4.1.0-incubating</rocketmq.version>
+    <rocketmq.version>4.7.1</rocketmq.version>
   </properties>
 
   <dependencies>

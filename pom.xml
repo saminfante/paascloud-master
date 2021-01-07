@@ -189,7 +189,7 @@
       <dependency>
         <groupId>com.fasterxml.jackson.core</groupId>
         <artifactId>jackson-databind</artifactId>
-        <version>2.8.4</version>
+        <version>2.9.10.8</version>
       </dependency>
       <!--mybatis-->
       <dependency>
@@ -447,7 +447,7 @@
       <dependency>
         <groupId>net.logstash.logback</groupId>
         <artifactId>logstash-logback-encoder</artifactId>
-        <version>4.6</version>
+        <version>6.3</version>
       </dependency>
     </dependencies>
   </dependencyManagement>

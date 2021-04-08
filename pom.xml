@@ -55,7 +55,7 @@
     <maven-javadoc-plugin.version>2.10.4</maven-javadoc-plugin.version>
     <maven-source-plugin.version>3.0.1</maven-source-plugin.version>
     <guava.version>17.0</guava.version>
-    <boot.admin.version>1.5.7</boot.admin.version>
+    <boot.admin.version>2.1.6</boot.admin.version>
     <httpclientutil.version>1.0</httpclientutil.version>
     <feign.form.spring.version>3.0.3</feign.form.spring.version>
     <spring.version>4.3.11.RELEASE</spring.version>
